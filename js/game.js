@@ -28,17 +28,14 @@ Game = {
 	    Crafty.background('grey');
 
 	    /*~~~~~~~~~~~~ ENTITIES  ~~~~~~~~~~~~*/ 
-
 	    var achtergrondEditie = Crafty.e("EditionBackground");
 	    var invloedHumeur = Crafty.e("InfluenceOnMood");
 	   	var sensatie = Crafty.e("Sensation");
-	    
 	    var achtergrondManagement = Crafty.e("EditionBackgroundManagement");
 	    var moodImage = Crafty.e("MoodImage");
 	    var humeur = Crafty.e("Moodvalue");
 	    var oplage = Crafty.e("Oplage");
 	    var profit = Crafty.e("Winst");
-
 	    var submitbutton = Crafty.e("Submitbutton");
 
 		/*----------- Paper ----------------*/
